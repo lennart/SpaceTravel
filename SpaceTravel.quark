@@ -1,0 +1,7 @@
+(
+	\name: 			"SpaceTravel",
+	\summary:		"SuperCollider implementation of space filling curve traversals and transformations",
+	\author: 		"Julian Rohrhuber",
+	\since: 		"2017",
+	\dependencies:  ["UnitTesting"]
+)
